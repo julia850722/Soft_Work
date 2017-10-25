@@ -19,6 +19,10 @@ int main()
 	printf("拉丁文：salve Pauper\n") ;
 	printf("世界語：Vi estas tiel malriĉa\n") ;
 
+	printf("冰島文：Þú ert svo fátækur\n");
+	printf("爪哇文：Sampeyan banget miskin\n");
+	printf("俄文：Ты такой бедный\n");
+
 	return 0 ;
 }
 
