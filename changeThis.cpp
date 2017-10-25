@@ -10,6 +10,9 @@ int main()
 	printf("葡萄牙文：Você é tão pobre\n");
 	printf("越南文：Bạn quá nghèo\n");
 	printf("俄文：Ты такой бедный\n");
+	printf("緬甸文：မင်္ဂလာပါညံ့ဖျင်း\n");
+	printf("泰文：คุณแย่มาก\n");
+	printf("孟加拉文：আপনি এত দরিদ্র\n");
 	return 0 ;
 }
 
