@@ -1,4 +1,4 @@
-include<stdio.h>
+﻿include<stdio.h>
 int main()
 {
 	printf("中文：你好可憐\n") ;
@@ -10,6 +10,9 @@ int main()
 	printf("葡萄牙文：Você é tão pobre\n");
 	printf("越南文：Bạn quá nghèo\n");
 	printf("俄文：Ты такой бедный\n");
+	printf("法文：Tu es si pauvre\n") ;
+	printf("拉丁文：salve Pauper\n") ;
+	printf("世界語：Vi estas tiel malriĉa\n") ;
 	return 0 ;
 }
 
