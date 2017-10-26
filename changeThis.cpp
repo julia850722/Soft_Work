@@ -22,7 +22,7 @@ int main()
 
 	printf("冰島文：Þú ert svo fátækur\n");
 	printf("爪哇文：Sampeyan banget miskin\n");
-	printf("俄文：Ты такой бедный\n");
+	printf("馬其頓文：Вие сте толку сиромашни\n");
 
 	return 0 ;
 }
