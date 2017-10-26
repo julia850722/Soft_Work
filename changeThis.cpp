@@ -7,9 +7,10 @@ int main()
 	printf("丹麥文：Du er så dårlig\n") ;
 	printf("希臘文：Είσαι τόσο φτωχός\n") ;
 	printf("蒙古文：تون ڏاڍو غريب آهين\n") ;
+
 	printf("葡萄牙文：Você é tão pobre\n");
 	printf("越南文：Bạn quá nghèo\n");
-	printf("俄文：Ты такой бедный\n");
+	printf("印度古拉哈地文：તમે ખૂબ ગરીબ છો\n");
 
 	printf("緬甸文：မင်္ဂလာပါညံ့ဖျင်း\n");
 	printf("泰文：คุณแย่มาก\n");
